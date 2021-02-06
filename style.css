@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+}
+
+.objects{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+    
+}
+
